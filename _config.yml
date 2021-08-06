@@ -18,12 +18,12 @@ avatar: https://image.shutterstock.com/image-vector/stock-exchange-arrow-logo-te
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:f.ebadi@gmail.com
-  facebook:#
+  email: f.ebadi@gmail.com
+  facebook: #
   flickr:
-  github: barryclark/jekyll-now
-  instagram:#
-  linkedin:#
+  github: #
+  instagram: #
+  linkedin: #
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: #
